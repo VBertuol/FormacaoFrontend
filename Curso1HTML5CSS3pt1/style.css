@@ -1,0 +1,14 @@
+body {
+    background: #CCCCCC;
+}
+h1 {
+    text-align:center;
+    background: #b5f7d0;
+}
+p {
+    text-align: center;
+    background: #b8b4f3;
+}
+strong {
+    color: purple;
+}
