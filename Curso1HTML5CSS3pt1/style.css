@@ -1,14 +1,62 @@
 body {
     background: #CCCCCC;
 }
+
+#banner {
+    width: 97.5%;
+    border: solid purple;
+    padding: 10px;
+    margin-left: 10px;
+
+}
+
 h1 {
     text-align:center;
-    background: #b5f7d0;
 }
+
 p {
     text-align: center;
-    background: #b8b4f3;
+    font-size: 25px;
 }
+
+#missao {
+    font-size: 25px
+}
+
 strong {
     color: purple;
+}
+
+.principal {
+    border: solid purple;
+    padding: 10px;
+    margin: 10px;
+}
+
+.beneficios {
+    border: solid purple;
+    padding: 10px;
+    margin: 10px;
+}
+
+h2 {
+    text-align:center;
+    font-size: 25px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 45%;
+}
+
+.itens {
+    font-style: italic;
+    font-size: 25px;
+    margin-left: 40px;
+    margin-bottom: 15px;
+}
+
+.imagemBeneficios {
+    width: 50%;
 }
