@@ -3,10 +3,9 @@ body {
 }
 
 #banner {
-    width: 97.5%;
     border: solid purple;
     padding: 10px;
-    margin-left: 10px;
+    margin-left: 27.5%;
 
 }
 
@@ -34,6 +33,7 @@ strong {
 }
 
 .beneficios {
+    display: inline-block;
     border: solid purple;
     padding: 10px;
     margin: 10px;
@@ -45,18 +45,27 @@ h2 {
 }
 
 ul {
-    display: inline-block;
     vertical-align: top;
-    width: 45%;
+    display: inline-block;   
+    width: 33%;
+    border: solid purple;
+    padding: 10px;
+    margin: 10px;
 }
 
 .itens {
     font-style: italic;
-    font-size: 25px;
+    font-size: 40px;
+    margin-top: 60px;
     margin-left: 40px;
-    margin-bottom: 15px;
+    margin-bottom: 73px;
 }
 
 .imagemBeneficios {
-    width: 50%;
+    display: inline-block;
+    width: 25%;
+    border: solid purple;
+    padding: 10px;
+    margin: 10px;
+    vertical-align: top;
 }
