@@ -1,0 +1,56 @@
+.listaprodutos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+
+}
+
+.titulosprodutos {
+    text-align:center;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.listaprodutos li {
+    display: inline-block;
+    background: #BBBBBB;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    box-sizing: border-box;
+    padding: 30px 20px;
+    border: purple solid 2px;
+    border-radius: 10px;
+}
+
+.listaprodutos li:hover {
+    border-width: 4px;
+}
+
+.listaprodutos li:hover .titulosprodutos {
+    font-size: 30px;
+}
+
+.listaprodutos li:hover .descricao {
+    font-size: 20px;
+}
+
+.listaprodutos li:hover .preco {
+    font-size: 20px;
+}
+.listaprodutos img {
+    margin: auto;
+}
+.descricao {
+    font-size: 18px;
+}
+
+.preco {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+}
