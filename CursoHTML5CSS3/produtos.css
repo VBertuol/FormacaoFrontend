@@ -1,5 +1,5 @@
 .listaprodutos {
-    width: 940px;
+    width: 1200px;
     margin: 0 auto;
     padding: 50px 0;
 
@@ -10,7 +10,7 @@
     text-transform: uppercase;
     color: black;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 22px;
     margin-bottom: 10px;
 }
 
@@ -47,10 +47,11 @@
 }
 .descricao {
     font-size: 18px;
+    font-weight: bold;
 }
 
 .preco {
     font-size: 18px;
     font-weight: bold;
-    margin-top: 10px;
+    margin-top: 05px;
 }
