@@ -1,0 +1,5 @@
+Esta pasta contempla tudo que foi produzido e as sources dentro dos 4 primeiros cursos da Formação em FrontEnd da Alura.
+
+Os quatro cursos foram sobre HTML5 e CSS3, conceitos basicos e fundamentos das linguagens que são necessários para se iniciar o mundo do FrontEnd.
+
+Vale ressaltar que o projeto neste caso é autoral visto que eu não segui exatamente o projeto dos cursos e fui estilizando conforme gosto pessoal e incluindo algumas brincadeiras, então as páginas não estão iguais as que são feitas nos cursos.
