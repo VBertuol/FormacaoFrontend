@@ -9,6 +9,21 @@
     justify-content: space-around;
 }
 
+.videoSobre .container {
+    display: flex;
+}
+
+.videoSobre-sobre {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    flex-grow: 1;
+}
+
+.videoSobre-sobre-list {
+    flex-grow: 1;
+}
+
 /* mobile */
 @media (max-width:768px){
 
@@ -19,5 +34,9 @@
 
     .conteudoPrincipal-cursos { 
         align-items: center;
+    }
+
+    .videoSobre .container {
+        flex-direction: column;
     }
 }
